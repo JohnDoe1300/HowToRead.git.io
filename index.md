@@ -25,10 +25,10 @@
 ### 从句：
 高中训练的各种从句在小说里会大量出现，原版小说里的从句还会混杂大量插入成分或平行结构。应试教育里所谓的长难句真的不是无中生有来提高考试难度的，原版英文小说里有更多加强版的长句，比如下面这个例子就出自Tamara Allen: “The Road to Silver Plume.” 。
 
-```markdown
-“In all his years in Washington, through all manner of suppers and balls, he’d waltzed with flirtatious young women, with married matrons who wanted to introduce him to their daughters, with department colleagues who seemed far more comfortable chatting during the workday, and with affectionate elderly ladies who sometimes dared a kiss on the cheek at the dance’s end. He’d danced obligingly, dutifully, sometimes well past midnight to please his host—and to avoid talk that he was a bit of an odd fellow, still unmarried at thirty-one.”
-在华盛顿州的这些年里，在无数的晚餐和舞会之间，他和挑逗多姿的年轻女子跳过华尔兹，和想要把自己女儿许配给他的中年已婚妇女跳过华尔兹，和比起跳舞在工作日聊天远更不拘束的部门同事跳过华尔兹，和有时在舞会结束前大胆亲他脸颊的慈祥年迈女士跳过华尔兹。他乐意地、尽职地共舞，有时为了取悦他的主人甚至会跳到午夜，更多是为了避开那些针对他的谈话，“他三十一岁却还没有结婚，是一个古怪的人”。
-```
+###### “In all his years in Washington, through all manner of suppers and balls, he’d waltzed with flirtatious young women, with married matrons who wanted to introduce him to their daughters, with department colleagues who seemed far more comfortable chatting during the workday, and with affectionate elderly ladies who sometimes dared a kiss on the cheek at the dance’s end. He’d danced obligingly, dutifully, sometimes well past midnight to please his host—and to avoid talk that he was a bit of an odd fellow, still unmarried at thirty-one.”
+
+###### 在华盛顿州的这些年里，在无数的晚餐和舞会之间，他和挑逗多姿的年轻女子跳过华尔兹，和想要把自己女儿许配给他的中年已婚妇女跳过华尔兹，和比起跳舞在工作日聊天远更不拘束的部门同事跳过华尔兹，和有时在舞会结束前大胆亲他脸颊的慈祥年迈女士跳过华尔兹。他乐意地、尽职地共舞，有时为了取悦他的主人甚至会跳到午夜，更多是为了避开那些针对他的谈话，“他三十一岁却还没有结婚，是一个古怪的人”。
+
 
 
 ### 非谓语动词：
