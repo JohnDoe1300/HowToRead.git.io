@@ -34,7 +34,7 @@
 ### 非谓语动词：
 个人觉得可能是最重要的一个语法，判断非谓语动词很简单，因为一个句子只能有一个谓语，其他动词只能是非谓语，动词不做谓语时能充当很多其他成分，小说里这个语法几乎到处都有。比如下面这个句子的sponsored, named：(出自KJ Charles: “The Gentle Art of Fortune Hunting.”)
 
-##### “Robin had joined the Laodicean at vast expense, sponsored by an unimportant but rich young man named Mowbray whose fiancée had become bosom friends with Marianne.”
+###### “Robin had joined the Laodicean at vast expense, sponsored by an unimportant but rich young man named Mowbray whose fiancée had become bosom friends with Marianne.”
 
 
 ### 平行结构：
@@ -45,8 +45,9 @@
 这个分类很随便，泛指一个句子里除了主谓宾以外的其他东西，国内教学其实有教这些，但一般句子都很短，不足以造成干扰。英文小说里这些可以层层叠加弄得超级长，一般都有用逗号隔开，刚开始读会很不适应，但读多了还好。阅读这类长句最好不要按照一些应试方法直接跳过插入语，小说里很多重要细节都藏在插入语里。比如一本现代背景改编的傲慢与偏见的开篇，宾格利的出场介绍出现了大量插入语和修饰成分，这个句子只保留主谓宾就是“宾格利出现在相亲真人秀上”，但实际上却是”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了大型相亲真人电视秀上”：
 
 
-“WELL BEFORE HIS arrival in Cincinnati, everyone knew that Chip Bingley was looking for a wife. Two years earlier, Chip—graduate of Dartmouth College and Harvard Medical School, scion of the Pennsylvania Bingleys, who in the twentieth century had made their fortune in plumbing fixtures—had, ostensibly with some reluctance, appeared on the juggernaut reality-television show Eligible. Over the course of eight weeks in the fall of 2011, twenty-five single women had lived together in a mansion in Rancho Cucamonga, California, and vied for Chip’s heart: accompanying him on dates to play blackjack in Las Vegas and taste wine at vineyards in Napa Valley, fighting with and besmirching one another in and out of his presence.”
-在他到达辛辛那提之前，每一个人都知道奇普·宾格利在寻找一个妻子。奇普从达特茅斯本科和哈佛医学院毕业，他是宾夕法尼亚宾格利家族的后裔，这个家族在二十世纪靠修理管道发家，两年前，奇普表面不情愿却出现在了大型相亲真人电视秀上。在2011年秋季的八个星期里，25个单身女子一起生活在一栋加州RC市的一栋别墅里，她们相互竞争只为了夺得奇普的爱情：她们在约会时陪伴他去拉斯维加斯玩21点纸牌游戏，去纳帕谷的葡萄园品尝葡萄酒，无论奇普在不在场，这些女人都明争暗斗，不遗余力抹黑对方。
+###### “WELL BEFORE HIS arrival in Cincinnati, everyone knew that Chip Bingley was looking for a wife. Two years earlier, Chip—graduate of Dartmouth College and Harvard Medical School, scion of the Pennsylvania Bingleys, who in the twentieth century had made their fortune in plumbing fixtures—had, ostensibly with some reluctance, appeared on the juggernaut reality-television show Eligible. Over the course of eight weeks in the fall of 2011, twenty-five single women had lived together in a mansion in Rancho Cucamonga, California, and vied for Chip’s heart: accompanying him on dates to play blackjack in Las Vegas and taste wine at vineyards in Napa Valley, fighting with and besmirching one another in and out of his presence.”
+
+###### 在他到达辛辛那提之前，每一个人都知道奇普·宾格利在寻找一个妻子。奇普从达特茅斯本科和哈佛医学院毕业，他是宾夕法尼亚宾格利家族的后裔，这个家族在二十世纪靠修理管道发家，两年前，奇普表面不情愿却出现在了大型相亲真人电视秀上。在2011年秋季的八个星期里，25个单身女子一起生活在一栋加州RC市的一栋别墅里，她们相互竞争只为了夺得奇普的爱情：她们在约会时陪伴他去拉斯维加斯玩21点纸牌游戏，去纳帕谷的葡萄园品尝葡萄酒，无论奇普在不在场，这些女人都明争暗斗，不遗余力抹黑对方。
 
 
 ### 其他语法：
@@ -55,8 +56,9 @@
 
 一些小说确实不遵循语法，但即便是这些小说也遵守了一定的规则。从来没有哪本小说会出现一个句子有多个谓语或两个主语。所谓的”小说不讲语法”只是一些小说会把一个短语/状语/形容词等单独成句，句子成分只会少不会多。要看懂这些的前提还是需要对句子结构足够熟悉。比如Less开篇描写主角的鼻子就是在一个短语后面加了句号。
 
-“So has Arthur Less, once pink and gold with youth, faded like the sofa he sits on, tapping one finger on his knee and staring at the grandfather clock. The long     patrician nose perennially burned by the sun (even in cloudy New York October).”
-亚瑟·雷斯也老去了，他曾在年轻时充满朝气，现在他就像他坐着的褪色沙发一样，他一根手指轻敲膝盖，望着落地摆钟。即便在纽约的十月，他长而高贵的鼻子也时常被太阳晒伤。
+######  “So has Arthur Less, once pink and gold with youth, faded like the sofa he sits on, tapping one finger on his knee and staring at the grandfather clock. The long     patrician nose perennially burned by the sun (even in cloudy New York October).”
+
+###### 亚瑟·雷斯也老去了，他曾在年轻时充满朝气，现在他就像他坐着的褪色沙发一样，他一根手指轻敲膝盖，望着落地摆钟。即便在纽约的十月，他长而高贵的鼻子也时常被太阳晒伤。
 
 
 ## 3. 单词
@@ -80,24 +82,28 @@
 ## 5. 精读
 读小说需不需要精读，这个就看个人喜好了。我自己是会精读很喜欢的短篇或长篇里的小片段。精读时就不只是看故事的主要情节，更多时候会留意作者的语言和结构。精读一些比较难的片段还可以锻炼阅读长句的能力，我对Saïd Sayrafiezadeh的短篇Audition特别有共鸣，自己就读了很多遍，故事里男主被父亲安排在家里工地搬砖却心怀演艺梦，开篇第一段介绍主角现实和理想落差时用了非常多插入语，通过精读这个段落我对插入语更加适应。
 
-The first time I smoked crack cocaine was the spring I worked construction for my father on his new subdivision in Moonlight Heights. My original plan had been to go to college, specifically for the arts, specifically for acting, where I’d envisioned strolling shoeless around campus with a notepad, jotting down details about the people I observed so that I would later be able to replicate the human condition onscreen with nuance and veracity. Instead, I was unmatriculated and nineteen, working six days a week, making eight dollars an hour, no more or less than what the other general laborers were being paid, and which is what passed, at least for my self-made father, as fairness.
-我第一次吸食可卡因的那个春天，我在我父亲开在月光高地的新施工工地里干活。我原本计划去上大学，去学习艺术，去学习表演，我幻想着自己光着脚在校园里漫游，带着笔记本草草记下我遇到的人物，以便我能在舞台上入微又精确地还原这些动作。然而现实是，我19岁，没有登记入学，每周工作六天，一小时工资八美元，和其他普通的工人相比不多也不少，在我白手起家的父亲看来，这就是公平。
+###### The first time I smoked crack cocaine was the spring I worked construction for my father on his new subdivision in Moonlight Heights. My original plan had been to go to college, specifically for the arts, specifically for acting, where I’d envisioned strolling shoeless around campus with a notepad, jotting down details about the people I observed so that I would later be able to replicate the human condition onscreen with nuance and veracity. Instead, I was unmatriculated and nineteen, working six days a week, making eight dollars an hour, no more or less than what the other general laborers were being paid, and which is what passed, at least for my self-made father, as fairness.
+
+###### 我第一次吸食可卡因的那个春天，我在我父亲开在月光高地的新施工工地里干活。我原本计划去上大学，去学习艺术，去学习表演，我幻想着自己光着脚在校园里漫游，带着笔记本草草记下我遇到的人物，以便我能在舞台上入微又精确地还原这些动作。然而现实是，我19岁，没有登记入学，每周工作六天，一小时工资八美元，和其他普通的工人相比不多也不少，在我白手起家的父亲看来，这就是公平。
 
 
 一些经典的非英耽短篇也很适合精读，福克纳的A Rose for Emily可以帮助熟悉许多作者时空和视角都不断变换的非线性写法。我们熟悉的欧亨利的英文原文真的挺难的，比如The Gift of the Magi(麦琪的礼物)原文就因为描述性语言多而且篇幅短适合精读。New Yorker杂志每周有一篇短篇小说，这些小说的叙事结构一般都不会很传统，如果想锻炼快速把握人物关系和剧情的能力可以试下纽约客。
 
-One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty- seven cents. And the next day would be Christmas.There was clearly nothing to do but flop down on the shabby little couch and howl. So Della did it. Which instigates the moral reflection that life is made up of sobs, sniffles, and smiles, with sniffles predominating.
-一块八毛七分钱。全在这儿了。其中六毛钱还是铜子儿凑起来的。这些铜子儿是每次一个两个向杂货铺、菜贩和肉店老板那儿死乞白赖地硬扣下来的，人家虽然没有明说，自己总觉得这种掂斤播两的交易未免太吝啬，当时脸都臊红了。德拉数了三遍。数来数去还是一块八毛七分钱，而第二天就是圣诞节了。除了倒在那张破旧的小榻上号哭之外，显然没有别的办法。德拉就那样做了。这使一种精神上的感慨油然而生，认为人生是由啜泣、抽噎和微笑组成的，而抽噎占了其中绝大部分。
+###### One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty- seven cents. And the next day would be Christmas.There was clearly nothing to do but flop down on the shabby little couch and howl. So Della did it. Which instigates the moral reflection that life is made up of sobs, sniffles, and smiles, with sniffles predominating.
+
+###### 一块八毛七分钱。全在这儿了。其中六毛钱还是铜子儿凑起来的。这些铜子儿是每次一个两个向杂货铺、菜贩和肉店老板那儿死乞白赖地硬扣下来的，人家虽然没有明说，自己总觉得这种掂斤播两的交易未免太吝啬，当时脸都臊红了。德拉数了三遍。数来数去还是一块八毛七分钱，而第二天就是圣诞节了。除了倒在那张破旧的小榻上号哭之外，显然没有别的办法。德拉就那样做了。这使一种精神上的感慨油然而生，认为人生是由啜泣、抽噎和微笑组成的，而抽噎占了其中绝大部分。
 
 
 
 长篇小说里的小片段也可以精读，Jane Eyre(简爱)第12章第3段很适合锻炼长平行结构的阅读；To the Lighthouse(到灯塔去)开头第二段对小儿子坐在地上剪纸的天马行空的修饰成分如果能读下来，几乎所有小说都不会有语法问题；Ethan Frome男主爱上妻妹过程的描写美而凝练，作者把各种背景信息都塞入了三个自然段，读完对男主的人设几乎有了个全面的了解；古风作品的语言就经常绕来绕去而且喜用大词，经典的Pride and Prejudice达西第一次求婚被拒的那段语言风格就是古风的典型代表。精读这些片段不需要多，而且可以完全不管阅读速度，看不懂就慢慢看，但重点是要通过这些片段熟悉一些比较难的语言或写作结构。
 
-“To her son these words conveyed an extraordinary joy, as if it were settled, the expedition were bound to take place, and the wonder to which he had looked forward, for years and years it seemed, was, after a night's darkness and a day's sail, within touch. Since he belonged, even at the age of six, to that great clan which cannot keep this feeling separate from that, but must let future prospects, with their joys and sorrows, cloud what is actually at hand, since to such people even in earliest childhood any turn in the wheel of sensation has the power to crystallise and transfix the moment upon which its gloom or radiance rests, James Ramsay, sitting on the floor cutting out pictures from the illustrated catalogue of the Army and Navy stores, endowed the picture of a refrigerator, as his mother spoke, with heavenly bliss.”
-这话对她的儿子说来，是个非同寻常的喜讯，好像此事已成定局：到灯塔去的远游势在必行，过了今晚一个黑夜，明日航行一天，那盼望多年的奇迹，就近在眼前了。詹姆斯才六岁，即使在这样的年龄，他已经属于那个伟大的种族，他们不能把两种不同的感觉分开，一定要让对于未来的期望和它的喜悦与忧愁来给即将到手的事物蒙上一层云雾，对于这种人来说，甚至在幼年时期，感觉的每一次变化转折，都有力量去把那情绪消沉或容光焕发的瞬间结晶固定下来。詹姆斯拉姆齐席地而坐，剪着陆海军商店的商品目录上的插图，当他的母亲对他讲话时，他正怀着极大的喜悦修饰一幅冰箱图片，连它也染上了喜悦的色彩。
+###### “To her son these words conveyed an extraordinary joy, as if it were settled, the expedition were bound to take place, and the wonder to which he had looked forward, for years and years it seemed, was, after a night's darkness and a day's sail, within touch. Since he belonged, even at the age of six, to that great clan which cannot keep this feeling separate from that, but must let future prospects, with their joys and sorrows, cloud what is actually at hand, since to such people even in earliest childhood any turn in the wheel of sensation has the power to crystallise and transfix the moment upon which its gloom or radiance rests, James Ramsay, sitting on the floor cutting out pictures from the illustrated catalogue of the Army and Navy stores, endowed the picture of a refrigerator, as his mother spoke, with heavenly bliss.”
 
-“In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till, roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the strength of that attachment which, in spite of all his endeavours, he had found impossible to conquer; and with expressing his hope that it would now be rewarded by her acceptance of his hand. As he said this, she could easily see that he had no doubt of a favourable answer. He SPOKE of apprehension and anxiety, but his countenance expressed real security. ”
-尽管她对他的厌恶之心根深蒂固，她究竟不能对这样一个男人的一番盛情漠然无动于衷；虽说她的意志不曾有过片刻的动摇，可是她开头倒也体谅到他将会受到痛苦，因此颇感不安，然而他后来的那些话引起了她的怨恨，她那一片怜惜之心便完全化成了愤怒。不过，她还是竭力镇定下来，以便等他把话说完，耐心地给他一个回答。未了，他跟她说，他对她的爱情是那么强烈，尽管他一再努力克服，结果还是克服不了，他又向她表明自己的希望，说是希望她表接受他的求婚。她一下子就看出他说这些话的时候，显然自认为她毫无问题会给他满意的回答。他虽然口里说他自己又怕又急，可是表情上却是一副万无一失的样子。
+###### 这话对她的儿子说来，是个非同寻常的喜讯，好像此事已成定局：到灯塔去的远游势在必行，过了今晚一个黑夜，明日航行一天，那盼望多年的奇迹，就近在眼前了。詹姆斯才六岁，即使在这样的年龄，他已经属于那个伟大的种族，他们不能把两种不同的感觉分开，一定要让对于未来的期望和它的喜悦与忧愁来给即将到手的事物蒙上一层云雾，对于这种人来说，甚至在幼年时期，感觉的每一次变化转折，都有力量去把那情绪消沉或容光焕发的瞬间结晶固定下来。詹姆斯拉姆齐席地而坐，剪着陆海军商店的商品目录上的插图，当他的母亲对他讲话时，他正怀着极大的喜悦修饰一幅冰箱图片，连它也染上了喜悦的色彩。
+
+###### “In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till, roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the strength of that attachment which, in spite of all his endeavours, he had found impossible to conquer; and with expressing his hope that it would now be rewarded by her acceptance of his hand. As he said this, she could easily see that he had no doubt of a favourable answer. He SPOKE of apprehension and anxiety, but his countenance expressed real security. ”
+
+###### 尽管她对他的厌恶之心根深蒂固，她究竟不能对这样一个男人的一番盛情漠然无动于衷；虽说她的意志不曾有过片刻的动摇，可是她开头倒也体谅到他将会受到痛苦，因此颇感不安，然而他后来的那些话引起了她的怨恨，她那一片怜惜之心便完全化成了愤怒。不过，她还是竭力镇定下来，以便等他把话说完，耐心地给他一个回答。未了，他跟她说，他对她的爱情是那么强烈，尽管他一再努力克服，结果还是克服不了，他又向她表明自己的希望，说是希望她表接受他的求婚。她一下子就看出他说这些话的时候，显然自认为她毫无问题会给他满意的回答。他虽然口里说他自己又怕又急，可是表情上却是一副万无一失的样子。
 
 
 ## 6. 阅读速度
