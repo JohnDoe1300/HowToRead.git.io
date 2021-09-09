@@ -34,7 +34,7 @@
 ### 非谓语动词：
 个人觉得可能是最重要的一个语法，判断非谓语动词很简单，因为一个句子只能有一个谓语，其他动词只能是非谓语，动词不做谓语时能充当很多其他成分，小说里这个语法几乎到处都有。比如下面这个句子的sponsored, named：(出自KJ Charles: “The Gentle Art of Fortune Hunting.”)
 
-“Robin had joined the Laodicean at vast expense, sponsored by an unimportant but rich young man named Mowbray whose fiancée had become bosom friends with Marianne.”
+##### “Robin had joined the Laodicean at vast expense, sponsored by an unimportant but rich young man named Mowbray whose fiancée had become bosom friends with Marianne.”
 
 
 ### 平行结构：
