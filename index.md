@@ -3,6 +3,8 @@
 <br>
 <br>
 
+![avatar](https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4878765/4878765-1587369584605-d41b861b688de.jpg)
+
 
 
 因为我自己就不是英文系or国际中学or从小接受英语教育，这一篇如何读英文通俗小说的经验可能对像我这种应试教育出来的人比较有参考性。
