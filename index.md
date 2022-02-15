@@ -127,7 +127,7 @@
 <br>
 <br>
 
-一些经典的非英耽短篇也很适合精读，福克纳的A Rose for Emily可以帮助熟悉许多作者时空和视角都不断变换的非线性写法。我们熟悉的欧亨利的英文原文真的挺难的，比如The Gift of the Magi(麦琪的礼物)原文就因为描述性语言多而且篇幅短适合精读。New Yorker杂志每周有一篇短篇小说，这些小说的叙事结构一般都不会很传统，如果想锻炼快速把握人物关系和剧情的能力可以试下纽约客。短篇小说个人觉得是阅读最困难的小说类型，开篇的时候很容易被绕晕：
+一些短篇也很适合精读，福克纳的A Rose for Emily可以帮助熟悉许多作者时空和视角都不断变换的非线性写法。我们熟悉的欧亨利的英文原文真的挺难的，比如The Gift of the Magi(麦琪的礼物)原文就因为描述性语言多而且篇幅短适合精读。New Yorker杂志每周有一篇短篇小说，这些小说的叙事结构一般都不会很传统，如果想锻炼快速把握人物关系和剧情的能力可以试下纽约客。短篇小说个人觉得是阅读最困难的小说类型，开篇的时候很容易被绕晕：
 
 #### Irene’s medium, the one in which she has exhibited at galleries, is textiles, but for “Interrogating Graham/Pence” she decides to use Polaroid photos and off-white Tintoretto paper. Even though the questions will be the same for all the men, she handwrites them in black ink, because the contrast of her consistent handwriting with the men’s varied handwriting will create a dialogue in which she is established as the interrogator. Before her lunch with Eddie Walsh, she writes:
 
@@ -171,7 +171,55 @@ When, prior to lunch today, did you last spend time alone with a woman who is no
 <br>
 <br>
 
-## 7. Recap
+
+## 7. 推荐书单
+如果是以提升英文为目的之一的阅读，我推荐下面这些书：
+
+<br>
+<br>
+
+## 初阶
+### Just A Bit系列 by Alesandra Hazard
+### Haven City by Zoe Perdita
+人物关系简单，没什么描写性语言，专有名词不多，沿海高中或四级水平就能读
+
+<br>
+<br>
+
+## 中阶
+### Society of Gentlemen by KJ Charles
+人物变多了，语言适合入门古风，但句子不长
+
+### Comfort and Joy by Jim Grimsley
+单词句法不难，人物关系简单，但是风格很特别，是时空交错的非线性写法
+
+### His Royal Secret by Lilah Pace
+所有属性都很适中的一个系列，而且句法使用很formal
+
+### Boyfriend Material by Alexis Hall
+充满文化梗和informal用法的一本书，好笑得很精致
+
+### [A Little Life by Hanya Yanagihara](https://boheme130.github.io/ALittleLife/)
+现代风格很重的一本书，单词句法都是当代小说的典范，就是比较长
+
+<br>
+<br>
+
+## 进阶
+### The Only Gold by Tamra Allen
+Tamara Allen的书都挺难的，这本书是镀金年代风格
+
+### Less by Andrew Sean Greer
+单词多句子长，文笔精致幽默
+
+The Amazin Adventures of Kavalier and Clay by Michael Chabon
+超级英雄漫画家和逃脱侠的故事，描写性语言爆炸的一本书，本世纪美国文学的最高成就之一
+
+
+
+
+
+## 8. Recap
 1️⃣基础：单词 + 语法 <br>
 2️⃣参照基础选择难度，这个过程最好自己试着多读几本书的开头找下感觉，不要找太难的书 <br>
 3️⃣多泛读多积累，灵活使用工具辅助阅读，偶尔精读提升技巧 <br>
