@@ -26,7 +26,7 @@
 ## 2. 语法
 不少人说阅读小说不需要语法，其实我个人感觉这是一个误区。阅读小说时能掌握句子结构才能更好理解文本信息。小说难读一个原因就是句子不仅长还修饰成分多，而句子的复杂度就是靠语法堆出来的。掌握好语法对于流畅阅读小说必不可少。
 
-只针对阅读小说而言，国内教学强调的语法既有优点也有不足。它有两个地方教得很好，一个是从句，另一个是非谓语动词。但是国内教学不怎么锻炼阅读那种比较长的句子(超过40个单词)。国内考试比较长的句子很多就是As is known to all of us, it’s of great significance to eat friuts which are a indispensable part of our diet in order to stay healthy. 这种信息量很低全靠没什么意义的短语凑字数的句子。真正的小说里会有很多长句，这种句子信息量大，一般有很多修饰成分或平行结构，都是国内教学不怎么教的地方，比如下面就有好几个例子。
+只针对阅读小说而言，国内教学强调的语法既有优点也有不足。它有两个地方教得很好，一个是从句，另一个是非谓语动词。但是国内教学不怎么锻炼阅读那种比较长的句子(超过40个单词)。国内考试比较长的句子很多就是As is known to all of us, it’s of great significance to eat friuts which are an indispensable part of our diet in order to stay healthy. 这种信息量很低全靠没什么意义的短语凑字数的句子。真正的小说里会有很多长句，这种句子信息量大，一般有很多修饰成分或平行结构，都是国内教学不怎么教的地方，比如下面就有好几个例子。
 
 ### 从句：
 高中训练的各种从句在小说里会大量出现，原版小说里的从句还会混杂大量插入成分或平行结构。应试教育里所谓的长难句真的不是无中生有来提高考试难度的，原版英文小说里有更多加强版的长句，比如下面这个例子就出自Tamara Allen: “The Road to Silver Plume.” 。
@@ -55,7 +55,7 @@
 <br>
 
 ### 状语/插入语/修饰成分……：
-这个分类很随便，泛指一个句子里除了主谓宾以外的其他东西，国内教学其实有教这些，但一般句子都很短，不足以造成干扰。英文小说里这些可以层层叠加弄得超级长，一般都有用逗号隔开，刚开始读会很不适应，但读多了还好。阅读这类长句最好不要按照一些应试方法直接跳过插入语，小说里很多重要细节都藏在插入语里。比如一本现代背景改编的傲慢与偏见的开篇，宾格利的出场介绍出现了大量插入语和修饰成分，这个句子只保留主谓宾就是“宾格利出现在相亲真人秀上”，但实际上却是”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了大型相亲真人电视秀上”：
+这个分类很随便，泛指一个句子里除了主谓宾以外的其他东西，国内教学其实有教这些，但一般句子都很短，不足以造成干扰。英文小说里这些可以层层叠加弄得超级长，一般都有用逗号隔开，刚开始读会很不适应，但读多了还好。阅读这类长句最好不要按照一些应试方法直接跳过插入语，小说里很多重要细节都藏在插入语里。比如一本现代背景改编的傲慢与偏见的开篇，宾格利的出场介绍出现了大量插入语和修饰成分，这个句子只保留主谓宾就是“宾格利出现在相亲真人秀上”，但实际上却是”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了名叫理想配偶的大型相亲真人电视秀上”：
 
 
 #### “WELL BEFORE HIS arrival in Cincinnati, everyone knew that Chip Bingley was looking for a wife. Two years earlier, Chip—graduate of Dartmouth College and Harvard Medical School, scion of the Pennsylvania Bingleys, who in the twentieth century had made their fortune in plumbing fixtures—had, ostensibly with some reluctance, appeared on the juggernaut reality-television show Eligible. Over the course of eight weeks in the fall of 2011, twenty-five single women had lived together in a mansion in Rancho Cucamonga, California, and vied for Chip’s heart: accompanying him on dates to play blackjack in Las Vegas and taste wine at vineyards in Napa Valley, fighting with and besmirching one another in and out of his presence.”
@@ -66,7 +66,7 @@
 <br>
 
 ### 其他语法：
-这一些语法都不会太影响理解，但如果能了解还是能够帮助阅读。国内已经强调过的有动词变换，代词，主谓一致，省略，介词，固定搭配，连词等。应试中反复强调的倒装和虚拟语气有用但反而不是特别常见。阅读里有用但国内不是很重视的除了上面的平行结构和长插入语，还有标点符号(尤其是逗号)，完整句。如果想大概了解一下一个语法点可以直接百度”<语法点名字> + SAT”，国内的SAT语法教学现在已经很完善了，里面教的知识点只针对阅读很有帮助[提醒：SAT教法无法准备体系内的高考/四六级]。
+这一些语法都不会太影响理解，但如果能了解还是能够帮助阅读。国内已经强调过的有动词变换，代词，主谓一致，省略，介词，固定搭配，连词等。应试中反复强调的倒装和虚拟语气有用但反而不是特别常见。阅读里有用但国内不是很重视的除了上面的平行结构和长插入语，还有标点符号(尤其是逗号)，完整句。如果想大概了解一下一个语法点可以直接百度”<语法点名字> + SAT”，国内的SAT语法教学现在已经很完善了，里面教的知识点只针对阅读很有帮助[提醒：SAT语法无法准备体系内的高考/四六级，国内更喜欢考固定搭配等记忆类型的题目]。
 
 
 <br>
@@ -77,7 +77,7 @@
 
 ####  “So has Arthur Less, once pink and gold with youth, faded like the sofa he sits on, tapping one finger on his knee and staring at the grandfather clock. The long     patrician nose perennially burned by the sun (even in cloudy New York October).”
 
-#### 亚瑟·雷斯也老去了，他曾在年轻时充满朝气，现在他就像他坐着的褪色沙发一样，他一根手指轻敲膝盖，望着落地摆钟。即便在纽约的十月，他长而高贵的鼻子也时常被太阳晒伤。
+#### 亚瑟·雷斯也老去了，他曾在年轻时充满朝气，现在他就像他坐着的褪色沙发一样，他一根手指轻敲膝盖，望着落地摆钟。即便在纽约的十月，他长而高贵的鼻子也常被太阳晒伤。
 
 
 <br>
@@ -95,7 +95,7 @@
 
 一些现代小说会有很多俚语，还会有一些文化梗，一般的俚语苹果自带词典都能覆盖，但还有一个常用的工具是Urban Dictionary, 这个网站由用户编辑，有英语系国家最新的非正式表达。文化梗如果能“科学”地G00gle一下当然是最好的，网页一般会有直接的解释，不过大部分文化梗不影响理解可以跳过。
 
-小说里的生词最好能够记录一下，只要不是太偏的词重复率还蛮高的，我常用的软件有苹果自带的备忘录和Quizlet. 我的微博里有几千个词汇整理https://m.weibo.cn/3090613317/4654489007557121
+小说里的生词最好能够记录一下，只要不是太偏的词重复率还蛮高的，我常用的软件有苹果自带的备忘录和Quizlet. 我看过的书有几千个词汇整理，[地址在这里](https://quizlet.com/Bohemian_/folders/fic/sets)
 
 
 <br>
@@ -118,30 +118,36 @@
 
 
 ## 5. 精读
-读小说需不需要精读，这个就看个人喜好了。我自己是会精读很喜欢的短篇或长篇里的小片段。精读时就不只是看故事的主要情节，更多时候会留意作者的语言和结构。精读一些比较难的片段还可以锻炼阅读长句的能力，我对Saïd Sayrafiezadeh的短篇Audition特别有共鸣，自己就读了很多遍，故事里男主被父亲安排在家里工地搬砖却心怀演艺梦，开篇第一段介绍主角现实和理想落差时用了非常多插入语，通过精读这个段落我对插入语更加适应。
+读小说需不需要精读，这个就看个人喜好了。我自己是会精读很喜欢的短篇或长篇里的小片段。精读时就不只是看故事的主要情节，更多时候会留意作者的语言和结构。精读一些比较难的片段还可以锻炼阅读长句的能力，我对Saïd Sayrafiezadeh的短篇Audition特别有共鸣，自己就读了很多遍，故事里男主被父亲安排在家里工地搬砖却心怀演艺梦，开篇第一段介绍主角现实和理想落差时用了非常多插入语。
 
 #### The first time I smoked crack cocaine was the spring I worked construction for my father on his new subdivision in Moonlight Heights. My original plan had been to go to college, specifically for the arts, specifically for acting, where I’d envisioned strolling shoeless around campus with a notepad, jotting down details about the people I observed so that I would later be able to replicate the human condition onscreen with nuance and veracity. Instead, I was unmatriculated and nineteen, working six days a week, making eight dollars an hour, no more or less than what the other general laborers were being paid, and which is what passed, at least for my self-made father, as fairness.
 
-###### 我第一次吸食可卡因的那个春天，我在我父亲开在月光高地的新施工工地里干活。我原本计划去上大学，去学习艺术，去学习表演，我幻想着自己光着脚在校园里漫游，带着笔记本草草记下我遇到的人物，以便我能在舞台上入微又精确地还原这些动作。然而现实是，我19岁，没有登记入学，每周工作六天，一小时工资八美元，和其他普通的工人相比不多也不少，在我白手起家的父亲看来，这就是公平。
+#### 我第一次吸食可卡因的那个春天，我在我父亲开在月光高地的新施工工地里干活。我原本计划去上大学，去学习艺术，去学习表演，我幻想着自己光着脚在校园里漫游，带着笔记本草草记下我遇到的人物，以便我能在舞台上入微又精确地还原这些动作。然而现实是，我19岁，没有登记入学，每周工作六天，一小时工资八美元，和其他普通的工人相比不多也不少，在我白手起家的父亲看来，这就是公平。
 
 <br>
 <br>
 
-一些经典的非英耽短篇也很适合精读，福克纳的A Rose for Emily可以帮助熟悉许多作者时空和视角都不断变换的非线性写法。我们熟悉的欧亨利的英文原文真的挺难的，比如The Gift of the Magi(麦琪的礼物)原文就因为描述性语言多而且篇幅短适合精读。New Yorker杂志每周有一篇短篇小说，这些小说的叙事结构一般都不会很传统，如果想锻炼快速把握人物关系和剧情的能力可以试下纽约客。
+一些经典的非英耽短篇也很适合精读，福克纳的A Rose for Emily可以帮助熟悉许多作者时空和视角都不断变换的非线性写法。我们熟悉的欧亨利的英文原文真的挺难的，比如The Gift of the Magi(麦琪的礼物)原文就因为描述性语言多而且篇幅短适合精读。New Yorker杂志每周有一篇短篇小说，这些小说的叙事结构一般都不会很传统，如果想锻炼快速把握人物关系和剧情的能力可以试下纽约客。短篇小说个人觉得是阅读最困难的小说类型，开篇的时候很容易被绕晕：
 
-#### One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty- seven cents. And the next day would be Christmas.There was clearly nothing to do but flop down on the shabby little couch and howl. So Della did it. Which instigates the moral reflection that life is made up of sobs, sniffles, and smiles, with sniffles predominating.
+#### Irene’s medium, the one in which she has exhibited at galleries, is textiles, but for “Interrogating Graham/Pence” she decides to use Polaroid photos and off-white Tintoretto paper. Even though the questions will be the same for all the men, she handwrites them in black ink, because the contrast of her consistent handwriting with the men’s varied handwriting will create a dialogue in which she is established as the interrogator. Before her lunch with Eddie Walsh, she writes:
 
-###### 一块八毛七分钱。全在这儿了。其中六毛钱还是铜子儿凑起来的。这些铜子儿是每次一个两个向杂货铺、菜贩和肉店老板那儿死乞白赖地硬扣下来的，人家虽然没有明说，自己总觉得这种掂斤播两的交易未免太吝啬，当时脸都臊红了。德拉数了三遍。数来数去还是一块八毛七分钱，而第二天就是圣诞节了。除了倒在那张破旧的小榻上号哭之外，显然没有别的办法。德拉就那样做了。这使一种精神上的感慨油然而生，认为人生是由啜泣、抽噎和微笑组成的，而抽噎占了其中绝大部分。
+###### Date
+
+###### Name
+
+###### Age
+
+###### Profession
+
+When, prior to lunch today, did you last spend time alone with a woman who is not your wife?
+
+#### 纽约客小说A For Alone的开场白，你能看出女主在干什么吗？(艺术家女主正在开展一项艺术活动，调查已婚男性多久没和除了妻子以外的女人共处)
 
 <br>
 <br>
 
 
 长篇小说里的小片段也可以精读，Jane Eyre(简爱)第12章第3段很适合锻炼长平行结构的阅读；To the Lighthouse(到灯塔去)开头第二段对小儿子坐在地上剪纸的天马行空的修饰成分如果能读下来，几乎所有小说都不会有语法问题；Ethan Frome男主爱上妻妹过程的描写美而凝练，作者把各种背景信息都塞入了三个自然段，读完对男主的人设几乎有了个全面的了解；古风作品的语言就经常绕来绕去而且喜用大词，经典的Pride and Prejudice达西第一次求婚被拒的那段语言风格就是古风的典型代表。精读这些片段不需要多，而且可以完全不管阅读速度，看不懂就慢慢看，但重点是要通过这些片段熟悉一些比较难的语言或写作结构。
-
-#### “To her son these words conveyed an extraordinary joy, as if it were settled, the expedition were bound to take place, and the wonder to which he had looked forward, for years and years it seemed, was, after a night's darkness and a day's sail, within touch. Since he belonged, even at the age of six, to that great clan which cannot keep this feeling separate from that, but must let future prospects, with their joys and sorrows, cloud what is actually at hand, since to such people even in earliest childhood any turn in the wheel of sensation has the power to crystallise and transfix the moment upon which its gloom or radiance rests, James Ramsay, sitting on the floor cutting out pictures from the illustrated catalogue of the Army and Navy stores, endowed the picture of a refrigerator, as his mother spoke, with heavenly bliss.”
-
-#### 这话对她的儿子说来，是个非同寻常的喜讯，好像此事已成定局：到灯塔去的远游势在必行，过了今晚一个黑夜，明日航行一天，那盼望多年的奇迹，就近在眼前了。詹姆斯才六岁，即使在这样的年龄，他已经属于那个伟大的种族，他们不能把两种不同的感觉分开，一定要让对于未来的期望和它的喜悦与忧愁来给即将到手的事物蒙上一层云雾，对于这种人来说，甚至在幼年时期，感觉的每一次变化转折，都有力量去把那情绪消沉或容光焕发的瞬间结晶固定下来。詹姆斯拉姆齐席地而坐，剪着陆海军商店的商品目录上的插图，当他的母亲对他讲话时，他正怀着极大的喜悦修饰一幅冰箱图片，连它也染上了喜悦的色彩。
 
 <br>
 <br>
