@@ -186,7 +186,7 @@ When, prior to lunch today, did you last spend time alone with a woman who is no
 <br>
 <br>
 
-## 中阶
+## 中阶 (点击标题进入相关扫文)
 ### [Society of Gentlemen by KJ Charles](https://boheme130.github.io/GentlemenSeries.git.io/)
 人物变多了，语言适合入门古风，但句子不长
 
@@ -205,14 +205,14 @@ When, prior to lunch today, did you last spend time alone with a woman who is no
 <br>
 <br>
 
-## 进阶
+## 进阶 (点击标题进入相关扫文)
 ### The Only Gold by Tamra Allen
 Tamara Allen的书都挺难的，这本书是镀金年代风格
 
 ### [Less by Andrew Sean Greer](https://boheme130.github.io/Less.git.io/)
 单词多句子长，文笔精致幽默
 
-[The Amazin Adventures of Kavalier and Clay by Michael Chabon](https://boheme130.github.io/AdventureOfKC/)
+### [The Amazin Adventures of Kavalier and Clay by Michael Chabon](https://boheme130.github.io/AdventureOfKC/)
 超级英雄漫画家和逃脱侠的故事，描写性语言爆炸的一本书，本世纪美国文学的最高成就之一
 
 
