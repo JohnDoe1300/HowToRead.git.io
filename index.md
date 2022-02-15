@@ -31,7 +31,7 @@
 ### 从句：
 高中训练的各种从句在小说里会大量出现，原版小说里的从句还会混杂大量插入成分或平行结构。应试教育里所谓的长难句真的不是无中生有来提高考试难度的，原版英文小说里有更多加强版的长句，比如下面这个例子就出自Tamara Allen: “The Road to Silver Plume.” 。
 
-###### “In all his years in Washington, through all manner of suppers and balls, he’d waltzed with flirtatious young women, with married matrons who wanted to introduce him to their daughters, with department colleagues who seemed far more comfortable chatting during the workday, and with affectionate elderly ladies who sometimes dared a kiss on the cheek at the dance’s end. He’d danced obligingly, dutifully, sometimes well past midnight to please his host—and to avoid talk that he was a bit of an odd fellow, still unmarried at thirty-one.”
+##### “In all his years in Washington, through all manner of suppers and balls, he’d waltzed with flirtatious young women, with married matrons who wanted to introduce him to their daughters, with department colleagues who seemed far more comfortable chatting during the workday, and with affectionate elderly ladies who sometimes dared a kiss on the cheek at the dance’s end. He’d danced obligingly, dutifully, sometimes well past midnight to please his host—and to avoid talk that he was a bit of an odd fellow, still unmarried at thirty-one.”
 
 ###### 在华盛顿州的这些年里，在无数的晚餐和舞会之间，他和挑逗多姿的年轻女子跳过华尔兹，和想要把自己女儿许配给他的中年已婚妇女跳过华尔兹，和比起跳舞在工作日聊天远更不拘束的部门同事跳过华尔兹，和有时在舞会结束前大胆亲他脸颊的慈祥年迈女士跳过华尔兹。他乐意地、尽职地共舞，有时为了取悦他的主人甚至会跳到午夜，更多是为了避开那些针对他的谈话，“他三十一岁却还没有结婚，是一个古怪的人”。
 
@@ -58,7 +58,7 @@
 这个分类很随便，泛指一个句子里除了主谓宾以外的其他东西，国内教学其实有教这些，但一般句子都很短，不足以造成干扰。英文小说里这些可以层层叠加弄得超级长，一般都有用逗号隔开，刚开始读会很不适应，但读多了还好。阅读这类长句最好不要按照一些应试方法直接跳过插入语，小说里很多重要细节都藏在插入语里。比如一本现代背景改编的傲慢与偏见的开篇，宾格利的出场介绍出现了大量插入语和修饰成分，这个句子只保留主谓宾就是“宾格利出现在相亲真人秀上”，但实际上却是”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了大型相亲真人电视秀上”：
 
 
-###### “WELL BEFORE HIS arrival in Cincinnati, everyone knew that Chip Bingley was looking for a wife. Two years earlier, Chip—graduate of Dartmouth College and Harvard Medical School, scion of the Pennsylvania Bingleys, who in the twentieth century had made their fortune in plumbing fixtures—had, ostensibly with some reluctance, appeared on the juggernaut reality-television show Eligible. Over the course of eight weeks in the fall of 2011, twenty-five single women had lived together in a mansion in Rancho Cucamonga, California, and vied for Chip’s heart: accompanying him on dates to play blackjack in Las Vegas and taste wine at vineyards in Napa Valley, fighting with and besmirching one another in and out of his presence.”
+##### “WELL BEFORE HIS arrival in Cincinnati, everyone knew that Chip Bingley was looking for a wife. Two years earlier, Chip—graduate of Dartmouth College and Harvard Medical School, scion of the Pennsylvania Bingleys, who in the twentieth century had made their fortune in plumbing fixtures—had, ostensibly with some reluctance, appeared on the juggernaut reality-television show Eligible. Over the course of eight weeks in the fall of 2011, twenty-five single women had lived together in a mansion in Rancho Cucamonga, California, and vied for Chip’s heart: accompanying him on dates to play blackjack in Las Vegas and taste wine at vineyards in Napa Valley, fighting with and besmirching one another in and out of his presence.”
 
 ###### 在他到达辛辛那提之前，每一个人都知道奇普·宾格利在寻找一个妻子。奇普从达特茅斯本科和哈佛医学院毕业，他是宾夕法尼亚宾格利家族的后裔，这个家族在二十世纪靠修理管道发家，两年前，奇普表面不情愿却出现在了大型相亲真人电视秀上。在2011年秋季的八个星期里，25个单身女子一起生活在一栋加州RC市的一栋别墅里，她们相互竞争只为了夺得奇普的爱情：她们在约会时陪伴他去拉斯维加斯玩21点纸牌游戏，去纳帕谷的葡萄园品尝葡萄酒，无论奇普在不在场，这些女人都明争暗斗，不遗余力抹黑对方。
 
