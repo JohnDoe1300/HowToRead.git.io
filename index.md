@@ -187,13 +187,13 @@ When, prior to lunch today, did you last spend time alone with a woman who is no
 <br>
 
 ## 中阶
-### Society of Gentlemen by KJ Charles
+### [Society of Gentlemen by KJ Charles](https://boheme130.github.io/GentlemenSeries.git.io/)
 人物变多了，语言适合入门古风，但句子不长
 
-### Comfort and Joy by Jim Grimsley
+### [Comfort and Joy by Jim Grimsley](https://boheme130.github.io/ComfortAndJoy.git.io/)
 单词句法不难，人物关系简单，但是风格很特别，是时空交错的非线性写法
 
-### His Royal Secret by Lilah Pace
+### [His Royal Secret by Lilah Pace](https://boheme130.github.io/HisRoyaoSeries.git.io/)
 所有属性都很适中的一个系列，而且句法使用很formal
 
 ### Boyfriend Material by Alexis Hall
@@ -209,14 +209,16 @@ When, prior to lunch today, did you last spend time alone with a woman who is no
 ### The Only Gold by Tamra Allen
 Tamara Allen的书都挺难的，这本书是镀金年代风格
 
-### Less by Andrew Sean Greer
+### [Less by Andrew Sean Greer](https://boheme130.github.io/Less.git.io/)
 单词多句子长，文笔精致幽默
 
-The Amazin Adventures of Kavalier and Clay by Michael Chabon
+[The Amazin Adventures of Kavalier and Clay by Michael Chabon](https://boheme130.github.io/AdventureOfKC/)
 超级英雄漫画家和逃脱侠的故事，描写性语言爆炸的一本书，本世纪美国文学的最高成就之一
 
 
-
+<br>
+<br>
+<br>
 
 
 ## 8. Recap
