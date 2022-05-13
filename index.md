@@ -3,12 +3,9 @@
 <br>
 <br>
 
-![avatar](https://i.loli.net/2021/09/11/2hPlrzpGEYA4W3j.jpg)
+![avatar](https://i.ibb.co/crW5mhX/2016-10-17-Kikuo-Fiction-Gym-2.jpg)
 
 <br>
-<br>
-
-因为我自己就不是英文系or国际中学or从小接受英语教育，这一篇如何读英文通俗小说的经验可能对像我这种应试教育出来的人比较有参考性。 <br>
 <br>
 
 
