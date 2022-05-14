@@ -10,7 +10,7 @@
 
 
 ## 1. Intro
-英语里的虚构类作品(fiction)和我在体系内学习的英语文章很不一样。一般国内中学(高考)和大学(四六级)英语的教学都只教non-fiction的阅读，即便是如托福雅思/GRE/GMAT之类的出国考试阅读，也都是non-fiction, 而我们经常听到的看杂志学英文(比如很火的经济学人)里面的英文也几乎都是非虚构类作品。因此，大部分人如果不是专门刻意去接触，在正常的国内教育中几乎不会接触到虚构类英语作品。
+英语里的虚构类作品(fiction)和我在体系内学习的英语文章很不一样。一般国内中学(高考)和大学(四六级)英语的教学都只教non-fiction的阅读，即便是如托福雅思/GRE/GMAT之类的出国考试阅读，也都是non-fiction, 而我们经常听到的看杂志学英文(比如很火的经济学人)里面的英文也几乎都是非虚构类作品。因此，大部分人如果不是专门刻意去接触，在正常的教育中几乎不会接触到虚构类英语作品。
 
 幸运的是，我们在学校毕竟学了这么多年的non-fiction，只要再加以补充，很快就能适应小说的阅读。这篇文章就主要介绍我是怎么用我在国内英语课堂学过的知识，然后再通过补充最终能流畅阅读英文小说。
 
@@ -31,58 +31,87 @@
 ### Haven City by Zoe Perdita
 shifter系列十本，用词简单
 
-### Famous Series by Eden Finley
-人物关系简单
+### Famous系列 by Eden Finley
+男团解散后五个人各自的故事，用词现代而且人物关系简单
+
+### [LiLy Morton所有作品](https://boheme130.github.io/LilyMorton.git.io/)
+发生在英国的一系列相关联但又可以独立阅读的小说，文风活泼
+
+### Enlightenment系列 by Joanna Chambers
+虽然是摄政风，但没有在语言上刻意还原那个时期的风格，适合古风入门
+
+### Parker St. John律所/牛仔系列
+两个系列，还在连载中，一个是律所内几个律师的故事，另一个是竞技牛仔和他们家乡的故事。
 
 <br>
 <br>
 
 ## 中阶 (点击标题进入相关扫文)
+### [Big Bad Wolf by Charlie Adhara](https://boheme130.github.io/BigBadWolf.git.io/)
+心中最佳的探案系列，人狼侦探搭档，每一本都是不同的北美风情。由于是探案所以读书🙅🏻‍♀️不可以囫囵吞枣，否则很容易遗漏线索。
+
 ### [Society of Gentlemen by KJ Charles](https://boheme130.github.io/GentlemenSeries.git.io/)
-人物变多了，语言适合入门古风，但句子不长
+摄政时代绅士俱乐部系列，人物变多了，语言比较古风，不过句子不长
+
+### [Hazard and Somerset系列 by Gregory Ashe](https://boheme130.github.io/HazardAndSomers.git.io/)
+县级市系列，单看每一本其实没有特别难，但接近20本叠到一起就很恐怖了
+
+### [Honeytrap](https://boheme130.github.io/Honeytrap/)
+美苏冷战高峰到结束的30年特工虐恋，好像被很多人称为舅男同人，但实际上是真实历史事件改编，故事有点长
 
 ### [Comfort and Joy by Jim Grimsley](https://boheme130.github.io/ComfortAndJoy.git.io/)
-单词句法不难，人物关系简单，但是风格很特别，是时空交错的非线性结构
+千禧年背景南方医生&医院勤杂人员的爱情，文风像水一样丝滑，单词句法不难，人物关系简单，但是风格很特别，是时空交错的非线性结构
 
 ### [His Royal Secret by Lilah Pace](https://boheme130.github.io/HisRoyaoSeries.git.io/)
-所有属性都很适中的一个系列，而且句法使用很formal
+英国王子系列，所有属性都很适中的一个系列，而且句法使用很formal
 
 ### Boyfriend Material by Alexis Hall
-充满文化梗和informal用法的一本书，用词讲究，一部精致的精致喜剧
+假男友变真男友，充满文化梗和informal用法的一本书，用词讲究，一部精致的精致喜剧
 
 ### [A Little Life by Hanya Yanagihara](https://boheme130.github.io/ALittleLife/)
-现代风格很重的一本书，单词句法都是当代小说的规范，就是比较长
+现代风格很重的一本书，由女性作者写出的纯男性关系巅峰之作，单词句法都是当代小说的规范，就是非常长
+
+### [Closet Case by Robert Rodi](https://boheme130.github.io/ClosetCase/)
+一部九十年代闷骚深柜单刀赴直男宴最终收获真爱的精致喜剧。篇幅不长，但用词和描写非常非常考究，毕竟作者有对简奥斯汀的骨灰级研究(直接写了3部文学评论和一部续写)。
 
 <br>
 <br>
 
 ## 进阶 (点击标题进入相关扫文)
 ### The Only Gold by Tamra Allen
-Tamara Allen的书都挺难的，这本书写得很好，但单词比较难
+Tamara Allen的书都挺难的，这本书写得很好，讲镀金年代银行职员和空降上司从敌人慢慢变成爱人，但单词比较晦涩
 
 ### [Less by Andrew Sean Greer](https://boheme130.github.io/Less.git.io/)
-单词多句子长，文笔精致幽默
+中年危机同性恋作家环球世界躲避前男友婚礼，普利策作品，单词多句子长，文笔精致幽默
+
+### [The Carpet Weaver by Nemat Sadat](https://boheme130.github.io/CarpetWeaver.git.io/)
+阿富汗跨国大逃杀禁忌绝恋，这本书简直就是在练习专有名词代入能力，伊斯兰和中东名词铺天盖地
 
 ### [The Amazin Adventures of Kavalier and Clay by Michael Chabon](https://boheme130.github.io/AdventureOfKC/)
-超级英雄漫画家和逃脱侠的故事，描写性语言爆炸的一本书，本世纪美国文学的最高成就之一
+犹太超级英雄漫画家和逃脱侠的故事，其中一条支线是漫画家男主和逃脱侠演员的感情线，描写性语言爆炸的一本书，本世纪美国文学的最高成就之一
+
+### Days Without End by Sebastian Barry
+爱尔兰移民在印第安大屠杀和南北战争期间的同性家庭和跨性别身份构建，设定很先锋，但它的语言和节奏真的太诡异了
 
 
-<br>
 <br>
 <br>
 
 
 
 ## 3. 语法
-不少人说阅读小说不需要语法，其实我个人感觉这是一个误区。阅读小说时能掌握句子结构才能更好理解文本信息。小说难读一个原因就是可能出现复杂的描写性语言，而句子的复杂度就是靠语法堆出来的。掌握好语法对于流畅阅读小说必不可少。
+不少人说阅读小说不需要语法，其实我个人感觉这是一个误区。阅读小说时能掌握句子结构才能更好理解文本信息。小说难读一个原因就是可能出现复杂的描写性语言，而句子的复杂度就是靠语法堆出来的。掌握好语法对于流畅阅读小说必不可少。国内的英语考试所谓的长难句顶多就是”众所周知为了保持健康我们要多吃在我们饮食里有重要作用的水果“，在真正的英文小说里，你遇到的将是：”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了名叫《理想配偶》的大型相亲真人电视秀上。在接下来2011年秋天的八个星期里二十八个单身女子同住在加州RC市的一栋别墅里通过在约会时陪他去拉斯维加斯玩二十一点纸牌游戏去纳帕谷葡萄园品尝红酒并无论查理在不在场都明争暗斗不遗余力抹黑对方来争夺查理的爱情。”
+
+如果想流畅阅读英文，基本的一些语法真的要掌握到像潜意识。比如一看到员工回忆起老板"I should have endured in silence the rust and cramp of my best faculties"的虚拟语气就应该立刻把他所有的活动取反义，即他根本没有忍受他的上司。一看到一个非谓语动词就要反应过来它是附着在哪个人物或物品身上。在过于长的句子里始终记得这个分句的主语是谁，一个but后主语是不是从Mrs Ramsay转移到了她想去灯塔的儿子James身上。
 
 
 ### 从句：
-应试训练的各种从句在小说里以进化版的形式大量出现，原版小说里的从句还会混杂大量插入成分或平行结构。比如下面这个例子就出自Tamara Allen: “The Road to Silver Plume.” 。
+应试训练的各种从句在小说里以进化版的形式大量出现，原版小说里的从句还会混杂大量插入成分或平行结构。比如下面这个例子就出自Tamara Allen: “The Road to Silver Plume” 
 
 #### “In all his years in Washington, through all manner of suppers and balls, he’d waltzed with flirtatious young women, with married matrons who wanted to introduce him to their daughters, with department colleagues who seemed far more comfortable chatting during the workday, and with affectionate elderly ladies who sometimes dared a kiss on the cheek at the dance’s end. He’d danced obligingly, dutifully, sometimes well past midnight to please his host—and to avoid talk that he was a bit of an odd fellow, still unmarried at thirty-one.”
 
 #### 在华盛顿州的这些年里，在无数的晚餐和舞会之间，他和挑逗多姿的年轻女子跳过华尔兹，和想要把自己女儿许配给他的中年已婚妇女跳过华尔兹，和比起跳舞在工作日聊天远更不拘束的部门同事跳过华尔兹，和有时在舞会结束前大胆亲他脸颊的慈祥年迈女士跳过华尔兹。他乐意地、尽职地共舞，有时为了取悦他的主人甚至会跳到午夜，更多是为了避开那些针对他的谈话，“他三十一岁却还没有结婚，是一个古怪的人”。
+
 
 <br>
 <br>
@@ -103,7 +132,7 @@ Tamara Allen的书都挺难的，这本书写得很好，但单词比较难
 <br>
 
 ### 状语/插入语/修饰成分……：
-这个分类很随便，泛指一个句子里除了主谓宾以外的其他东西，国内教学其实有教这些，但一般句子都很短，不足以造成干扰。英文小说里这些可以层层叠加弄得很长，一般都有用逗号隔开，刚开始读会很不适应，但读多了还好。阅读这类长句最好不要按照一些应试方法直接跳过插入语，小说里很多重要细节都藏在插入语里。比如一本现代背景改编的傲慢与偏见的开篇，宾格利的出场介绍出现了大量插入语和修饰成分，这个句子只保留主谓宾就是“宾格利出现在相亲真人秀上”，但实际上却是”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了名叫理想配偶的大型相亲真人电视秀上”：
+这个分类很随便，泛指一个句子里除了主谓宾以外的其他东西，国内教学其实有教这些，但一般句子都很短，不足以造成干扰。英文小说里这些可以层层叠加弄得很长，一般都有用逗号隔开，刚开始读会很不适应，但读多了还好。阅读这类长句最好不要按照一些应试方法直接跳过插入语，小说里很多重要细节都藏在插入语里。比如一本现代背景改编的傲慢与偏见的开篇，宾格利的出场介绍出现了大量插入语和修饰成分，这个句子只保留主谓宾就是“宾格利出现在相亲真人秀上”，但实际上却是”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了名叫《理想配偶》的大型相亲真人电视秀上。在接下来2011年秋天的八个星期里二十八个单身女子同住在加州RC市的一栋别墅里通过在约会时陪他去拉斯维加斯玩二十一点纸牌游戏去纳帕谷葡萄园品尝红酒并无论奇普在不在场都明争暗斗抹黑对方来争夺奇普的爱情。”：
 
 
 #### “WELL BEFORE HIS arrival in Cincinnati, everyone knew that Chip Bingley was looking for a wife. Two years earlier, Chip—graduate of Dartmouth College and Harvard Medical School, scion of the Pennsylvania Bingleys, who in the twentieth century had made their fortune in plumbing fixtures—had, ostensibly with some reluctance, appeared on the juggernaut reality-television show Eligible. Over the course of eight weeks in the fall of 2011, twenty-five single women had lived together in a mansion in Rancho Cucamonga, California, and vied for Chip’s heart: accompanying him on dates to play blackjack in Las Vegas and taste wine at vineyards in Napa Valley, fighting with and besmirching one another in and out of his presence.”
@@ -121,7 +150,7 @@ Tamara Allen的书都挺难的，这本书写得很好，但单词比较难
 <br>
 
 
-一些小说确实不遵循语法，但即便是这些小说也遵守了一定的规则。从来没有哪本小说会出现一个句子有多个谓语或两个主语。所谓的”小说不讲语法”只是一些小说会把一个短语/状语/形容词等单独成句，句子成分只会少不会多。要看懂这些的前提还是需要对句子结构足够熟悉。比如Less开篇描写主角的鼻子就是在一个短语后面加了句号。
+一些小说确实不遵循语法，但即便是这些小说也遵守了一定的规则。从来没有哪本小说会出现一个句子有多个谓语或两个主语。所谓的”小说不讲语法”只是一些小说会把一个短语/状语/形容词等单独成句，句子成分只会少不会多，即便是福克纳《在我弥留之际》Vardaman在河边看着亲妈棺材被冲直接发疯连续几页不加标点的诳语都是讲语法的。要看懂这些的前提还是需要对句子结构足够熟悉。比如Less开篇描写主角的鼻子就是在一个短语后面加了句号。
 
 ####  “So has Arthur Less, once pink and gold with youth, faded like the sofa he sits on, tapping one finger on his knee and staring at the grandfather clock. The long     patrician nose perennially burned by the sun (even in cloudy New York October).”
 
@@ -176,62 +205,12 @@ Tamara Allen的书都挺难的，这本书写得很好，但单词比较难
 
 <br>
 <br>
-<br>
 
 ## 7. 阅读速度
 每一本书的前10-20%最好能够放慢速度熟悉一下作者的语言风格，主人公的姓名，人物关系等。如果预感自己会在比较长的一段时间(比如两个星期或一个月)才看完一本书，甚至可以用备忘录记录一下基本角色的名字和身份。
 
 选择喜欢的书读很重要，不喜欢的书阅读速度会下降很多，看个几页就觉得很累。一本书的内容可以先从Goodreads看概括，看下GR评论/他人扫文，然后自己读几十页试下文风/剧情/人设/语言难度合不合适。如果不合适的书果断放弃，读一本不喜欢的书花费的时间都够读两三本有感觉的书。我一开始也纠结过我的阅读速度好慢/单词不会，读了几个月以后发现自己的阅读速度甚至到不了中文的五分之一觉得很挫败，而且自己读英文小说一略读就很容易忽略主要情节。后来我沉迷几个作者，把他们每人十几本书都刷了一遍，看书是为了追剧情没有想着阅读速度，阅读量到了四五百万反而自然就看得快了，略读也慢慢知道怎么抓重点。
 
-<br>
-<br>
-
-
-## 8. 推荐书单
-如果是以提升英文为目的之一的阅读，我推荐下面这些书：
-
-<br>
-
-## 初阶
-### Just A Bit系列 by Alesandra Hazard
-### Haven City by Zoe Perdita
-### Famous Series by Eden Finley
-人物关系简单，没什么描写性语言，专有名词不多，沿海高中或四级水平就能读
-
-<br>
-<br>
-
-## 中阶 (点击标题进入相关扫文)
-### [Society of Gentlemen by KJ Charles](https://boheme130.github.io/GentlemenSeries.git.io/)
-人物变多了，语言适合入门古风，但句子不长
-
-### [Comfort and Joy by Jim Grimsley](https://boheme130.github.io/ComfortAndJoy.git.io/)
-单词句法不难，人物关系简单，但是风格很特别，是时空交错的非线性结构
-
-### [His Royal Secret by Lilah Pace](https://boheme130.github.io/HisRoyaoSeries.git.io/)
-所有属性都很适中的一个系列，而且句法使用很formal
-
-### Boyfriend Material by Alexis Hall
-充满文化梗和informal用法的一本书，用词讲究，一部精致的精致喜剧
-
-### [A Little Life by Hanya Yanagihara](https://boheme130.github.io/ALittleLife/)
-现代风格很重的一本书，单词句法都是当代小说的规范，就是比较长
-
-<br>
-<br>
-
-## 进阶 (点击标题进入相关扫文)
-### The Only Gold by Tamra Allen
-Tamara Allen的书都挺难的，这本书写得很好，但单词比较难
-
-### [Less by Andrew Sean Greer](https://boheme130.github.io/Less.git.io/)
-单词多句子长，文笔精致幽默
-
-### [The Amazin Adventures of Kavalier and Clay by Michael Chabon](https://boheme130.github.io/AdventureOfKC/)
-超级英雄漫画家和逃脱侠的故事，描写性语言爆炸的一本书，本世纪美国文学的最高成就之一
-
-
-<br>
 <br>
 <br>
 
