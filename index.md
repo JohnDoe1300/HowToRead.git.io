@@ -12,12 +12,65 @@
 ## 1. Intro
 英语里的虚构类作品(fiction)和我在体系内学习的英语文章很不一样。一般国内中学(高考)和大学(四六级)英语的教学都只教non-fiction的阅读，即便是如托福雅思/GRE/GMAT之类的出国考试阅读，也都是non-fiction, 而我们经常听到的看杂志学英文(比如很火的经济学人)里面的英文也几乎都是非虚构类作品。因此，大部分人如果不是专门刻意去接触，在正常的国内教育中几乎不会接触到虚构类英语作品。
 
-幸运的是，我们在学校毕竟学了这么多年的non-fiction，只要再加以补充，很快就能适应小说的阅读。这篇文章就主要介绍我是怎么用我在国内英语课堂学过的知识，然后再通过补充最终能流畅阅读英文小说，再到打开英耽大门。
+幸运的是，我们在学校毕竟学了这么多年的non-fiction，只要再加以补充，很快就能适应小说的阅读。这篇文章就主要介绍我是怎么用我在国内英语课堂学过的知识，然后再通过补充最终能流畅阅读英文小说。
 
 <br>
 <br>
 
-## 2. 语法
+
+## 2. 推荐书单
+如果是以提升英文为目的之一的阅读，我推荐下面这些书：
+<br>
+
+## 初阶
+### Just A Bit系列 by Alesandra Hazard
+经典入门系列，无需介绍
+### Haven City by Zoe Perdita
+10本shifter系列，用词简单
+### Haven City by Zoe Perdita
+### Famous Series by Eden Finley
+人物关系简单，没什么描写性语言，专有名词不多，沿海高中或四级水平就能读
+
+<br>
+<br>
+
+## 中阶 (点击标题进入相关扫文)
+### [Society of Gentlemen by KJ Charles](https://boheme130.github.io/GentlemenSeries.git.io/)
+人物变多了，语言适合入门古风，但句子不长
+
+### [Comfort and Joy by Jim Grimsley](https://boheme130.github.io/ComfortAndJoy.git.io/)
+单词句法不难，人物关系简单，但是风格很特别，是时空交错的非线性结构
+
+### [His Royal Secret by Lilah Pace](https://boheme130.github.io/HisRoyaoSeries.git.io/)
+所有属性都很适中的一个系列，而且句法使用很formal
+
+### Boyfriend Material by Alexis Hall
+充满文化梗和informal用法的一本书，用词讲究，一部精致的精致喜剧
+
+### [A Little Life by Hanya Yanagihara](https://boheme130.github.io/ALittleLife/)
+现代风格很重的一本书，单词句法都是当代小说的规范，就是比较长
+
+<br>
+<br>
+
+## 进阶 (点击标题进入相关扫文)
+### The Only Gold by Tamra Allen
+Tamara Allen的书都挺难的，这本书写得很好，但单词比较难
+
+### [Less by Andrew Sean Greer](https://boheme130.github.io/Less.git.io/)
+单词多句子长，文笔精致幽默
+
+### [The Amazin Adventures of Kavalier and Clay by Michael Chabon](https://boheme130.github.io/AdventureOfKC/)
+超级英雄漫画家和逃脱侠的故事，描写性语言爆炸的一本书，本世纪美国文学的最高成就之一
+
+
+<br>
+<br>
+<br>
+
+
+
+## 3. 语法
 不少人说阅读小说不需要语法，其实我个人感觉这是一个误区。阅读小说时能掌握句子结构才能更好理解文本信息。小说难读一个原因就是可能出现复杂的描写性语言，而句子的复杂度就是靠语法堆出来的。掌握好语法对于流畅阅读小说必不可少。
 
 
@@ -77,7 +130,7 @@
 
 
 
-## 3. 单词
+## 4. 单词
 高中/四级单词是底线，最好能有六级，托福/雅思单词意义不是太大因为里面有太多小说里不怎么出现的专有名词，GRE里的单词性价比很低，如果想要准备更充分可以买本中国人编写的SAT单词书，美国人编写的Barron单词书过于偏了，SAT因为要考小说单词书里会有很多小说相关词汇。[这个网站可以测试词汇量](http://testyourvocab.com)，破了四五千就可以直接开始看小说。刚开始看时心态调整好很重要，很多单词不认识很正常，小说里经常出现的像grin, gingerly, aneurysm这些单词无论是什么级别的单词书都不怎么出现，再加上我们在学校的教学阅读的都是non-fiction, 这些单词第一次见到很正常。积累一下就慢慢熟悉了。有了四六级单词基础就可以从简单的开始看，比如哈泽的直男系列，不需要专门为了多背单词书拖着不阅读小说。单词书能解决的只有部分形容词和动词，名词尤其是生活用品名词只能靠阅读积累。
 
 关于词典我个人喜好是苹果自带词典，我用的阅读器是苹果自带的阅读器，查词很方便。我一般用一个英英和一个中英系统词典，英英比中英的解释更准确但看起来累一些，中英附带了很多固定搭配，不过一些比较微妙的释义还是要看英英。kindle我用过它的词典解释感觉不是很准确。苹果阅读器另一个优点是标注很方便，不会的单词用荧光标注系统会自动生成一个类似词表的”重点”(Notes)，复习或记录时很方便。
@@ -92,7 +145,7 @@
 
 
 
-## 4. 难度选择
+## 5. 难度选择
 难度选择最好能循序渐进，主要以词汇量为标准，如果词汇量破万基本可以从中等难度的开始看，如果是几千的词汇量可以看一般的商业小说，那些难度会低很多。正常看100万词左右的书就会比较得心应手了，阅读能力提升一般不是线性，更像是一个平——陡——平的曲线，一开始提升很慢，读多了以后有一个时期的阅读速度和理解力会迅速上升。
 
 无论词汇量多少都不太建议头几本书看难度太高的作品，我背了一万五单词后直接看Less看得十分痛苦，同理的还有古风作品。这些作品我现在重新看都不是很难，但那是因为我已经阅读了足够多难度适中的作品，我不太推荐在没怎么读过小说的情况下一开始直接看难度偏高的作品。那样虽然能读懂，但会读得很慢影响阅读体验，毕竟小说的一大功能就是娱乐，如果不是急着锻炼小说的阅读能力去考试，平时读小说弄得和做阅读理解一样感觉就太累了很容易劝退。
@@ -104,8 +157,8 @@
 
 
 
-## 5. 精读
-读小说需不需要精读，这个就看个人喜好了。我自己是会精读很喜欢的短篇或长篇里的小片段。精读时就不只是看故事的主要情节，更多时候会留意作者的语言和结构。精读一些比较难的片段还可以锻炼阅读长句的能力，我对Saïd Sayrafiezadeh的短篇Audition特别有共鸣，自己就读了很多遍，故事里男主被父亲安排在家里工地搬砖却心怀演艺梦，开篇第一段介绍主角现实和理想落差时用了非常多插入语。
+## 6. 精读
+读小说需不需要精读，这个就看个人喜好了。我自己会精读一些短篇或长篇里的小片段。精读时就不只是看故事的主要情节，更多时候会留意作者的语言和结构。精读一些比较难的片段还可以锻炼阅读长句的能力，我对Saïd Sayrafiezadeh的短篇Audition特别有共鸣，自己就读了很多遍，故事里男主被父亲安排在家里工地搬砖却心怀演艺梦，开篇第一段介绍主角现实和理想落差时用了非常多插入语。
 
 #### The first time I smoked crack cocaine was the spring I worked construction for my father on his new subdivision in Moonlight Heights. My original plan had been to go to college, specifically for the arts, specifically for acting, where I’d envisioned strolling shoeless around campus with a notepad, jotting down details about the people I observed so that I would later be able to replicate the human condition onscreen with nuance and veracity. Instead, I was unmatriculated and nineteen, working six days a week, making eight dollars an hour, no more or less than what the other general laborers were being paid, and which is what passed, at least for my self-made father, as fairness.
 
@@ -114,46 +167,32 @@
 <br>
 <br>
 
-一些短篇也很适合精读，福克纳的A Rose for Emily可以帮助熟悉许多作者时空和视角都不断变换的非线性写法。我们熟悉的欧亨利的英文原文真的挺难的，比如The Gift of the Magi(麦琪的礼物)原文就因为描述性语言多而且篇幅短适合精读。New Yorker杂志每周有一篇短篇小说，这些小说的叙事结构一般都不会很传统，如果想锻炼快速把握人物关系和剧情的能力可以试下纽约客。短篇小说个人觉得是阅读最困难的小说类型，开篇的时候很容易被绕晕：
-
-<br>
-<br>
+一些短篇也很适合精读，福克纳的A Rose for Emily可以帮助熟悉许多作者时空和视角都不断变换的非线性写法。我们熟悉的欧亨利的英文原文真的挺难的，比如The Gift of the Magi(麦琪的礼物)原文就因为描述性语言多而且篇幅短适合精读。New Yorker杂志每周有一篇短篇小说，这些小说的叙事结构一般都不会很传统，如果想锻炼快速把握人物关系和剧情的能力可以试下纽约客。短篇小说个人觉得是阅读最困难的小说类型，开篇的时候很容易被绕晕。
 
 
-长篇小说里的小片段也可以精读，Jane Eyre(简爱)第12章第3段很适合锻炼长平行结构的阅读；To the Lighthouse(到灯塔去)开头第二段对小儿子坐在地上剪纸的天马行空的修饰成分如果能读下来，几乎所有小说都不会有语法问题；Ethan Frome男主爱上妻妹过程的描写美而凝练，作者把各种背景信息都塞入了三个自然段，读完对男主的人设几乎有了个全面的了解；古风作品的语言就经常绕来绕去而且喜用大词，经典的Pride and Prejudice达西第一次求婚被拒的那段语言风格就是典型代表。精读这些片段不需要多，而且可以完全不管阅读速度，看不懂就慢慢看，但重点是要通过这些片段熟悉一些比较难的语言或写作结构。
-
-<br>
-<br>
-
-#### “In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary for an instant, she was at first sorry for the pain he was to receive; till, roused to resentment by his subsequent language, she lost all compassion in anger. She tried, however, to compose herself to answer him with patience, when he should have done. He concluded with representing to her the strength of that attachment which, in spite of all his endeavours, he had found impossible to conquer; and with expressing his hope that it would now be rewarded by her acceptance of his hand. As he said this, she could easily see that he had no doubt of a favourable answer. He SPOKE of apprehension and anxiety, but his countenance expressed real security. ”
-
-#### 尽管她对他的厌恶之心根深蒂固，她究竟不能对这样一个男人的一番盛情漠然无动于衷；虽说她的意志不曾有过片刻的动摇，可是她开头倒也体谅到他将会受到痛苦，因此颇感不安，然而他后来的那些话引起了她的怨恨，她那一片怜惜之心便完全化成了愤怒。不过，她还是竭力镇定下来，以便等他把话说完，耐心地给他一个回答。未了，他跟她说，他对她的爱情是那么强烈，尽管他一再努力克服，结果还是克服不了，他又向她表明自己的希望，说是希望她表接受他的求婚。她一下子就看出他说这些话的时候，显然自认为她毫无问题会给他满意的回答。他虽然口里说他自己又怕又急，可是表情上却是一副万无一失的样子。
 
 <br>
 <br>
 <br>
 
-## 6. 阅读速度
+## 7. 阅读速度
 每一本书的前10-20%最好能够放慢速度熟悉一下作者的语言风格，主人公的姓名，人物关系等。如果预感自己会在比较长的一段时间(比如两个星期或一个月)才看完一本书，甚至可以用备忘录记录一下基本角色的名字和身份。
 
-选择喜欢的书来读很重要，不喜欢的书阅读速度会下降很多，看个几页就觉得很累。一本书的内容可以先从Goodreads看概括，看下GR评论/微博扫文，然后自己读几十页试下文风/剧情/人设/语言难度合不合适。如果不合适的书果断放弃，读一本不喜欢的书花费的时间都够读两三本有感觉的书。之前我就被TB老师那本反恐主题英耽Whisper种草，一看评论发现篇幅过于长而且写法不是特别喜欢就弃了。
-
-我一开始也纠结过我的阅读速度好慢/单词不会，读了几个月以后发现自己的阅读速度甚至到不了中文的五分之一觉得很挫败，而且自己读英文小说一略读就很容易忽略主要情节。后来我沉迷几个作者，把ta们每人十几本书都刷了一遍，看书是为了追剧情没有想着阅读速度，阅读量到了四五百万反而自然就看得快了，略读也慢慢知道怎么抓重点。
+选择喜欢的书读很重要，不喜欢的书阅读速度会下降很多，看个几页就觉得很累。一本书的内容可以先从Goodreads看概括，看下GR评论/他人扫文，然后自己读几十页试下文风/剧情/人设/语言难度合不合适。如果不合适的书果断放弃，读一本不喜欢的书花费的时间都够读两三本有感觉的书。我一开始也纠结过我的阅读速度好慢/单词不会，读了几个月以后发现自己的阅读速度甚至到不了中文的五分之一觉得很挫败，而且自己读英文小说一略读就很容易忽略主要情节。后来我沉迷几个作者，把他们每人十几本书都刷了一遍，看书是为了追剧情没有想着阅读速度，阅读量到了四五百万反而自然就看得快了，略读也慢慢知道怎么抓重点。
 
 <br>
 <br>
-<br>
 
 
-## 7. 推荐书单
+## 8. 推荐书单
 如果是以提升英文为目的之一的阅读，我推荐下面这些书：
 
-<br>
 <br>
 
 ## 初阶
 ### Just A Bit系列 by Alesandra Hazard
 ### Haven City by Zoe Perdita
+### Famous Series by Eden Finley
 人物关系简单，没什么描写性语言，专有名词不多，沿海高中或四级水平就能读
 
 <br>
@@ -164,23 +203,23 @@
 人物变多了，语言适合入门古风，但句子不长
 
 ### [Comfort and Joy by Jim Grimsley](https://boheme130.github.io/ComfortAndJoy.git.io/)
-单词句法不难，人物关系简单，但是风格很特别，是时空交错的非线性写法
+单词句法不难，人物关系简单，但是风格很特别，是时空交错的非线性结构
 
 ### [His Royal Secret by Lilah Pace](https://boheme130.github.io/HisRoyaoSeries.git.io/)
 所有属性都很适中的一个系列，而且句法使用很formal
 
 ### Boyfriend Material by Alexis Hall
-充满文化梗和informal用法的一本书，好笑得很精致
+充满文化梗和informal用法的一本书，用词讲究，一部精致的精致喜剧
 
 ### [A Little Life by Hanya Yanagihara](https://boheme130.github.io/ALittleLife/)
-现代风格很重的一本书，单词句法都是当代小说的典范，就是比较长
+现代风格很重的一本书，单词句法都是当代小说的规范，就是比较长
 
 <br>
 <br>
 
 ## 进阶 (点击标题进入相关扫文)
 ### The Only Gold by Tamra Allen
-Tamara Allen的书都挺难的，这本书是镀金年代风格
+Tamara Allen的书都挺难的，这本书写得很好，但单词比较难
 
 ### [Less by Andrew Sean Greer](https://boheme130.github.io/Less.git.io/)
 单词多句子长，文笔精致幽默
