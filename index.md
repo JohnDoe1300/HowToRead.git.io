@@ -102,6 +102,8 @@ Tamara Allen的书都挺难的，这本书写得很好，讲镀金年代银行�
 ## 3. 语法
 不少人说阅读小说不需要语法，其实我个人感觉这是一个误区。阅读小说时能掌握句子结构才能更好理解文本信息。小说难读一个原因就是可能出现复杂的描写性语言，而句子的复杂度就是靠语法堆出来的。掌握好语法对于流畅阅读小说必不可少。国内的英语考试所谓的长难句顶多就是”众所周知为了保持健康我们要多吃在我们饮食里有重要作用的水果“，在真正的英文小说里，你遇到的将是：”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了名叫《理想配偶》的大型相亲真人电视秀上。在接下来2011年秋天的八个星期里二十八个单身女子同住在加州RC市的一栋别墅里通过在约会时陪他去拉斯维加斯玩二十一点纸牌游戏去纳帕谷葡萄园品尝红酒并无论查理在不在场都明争暗斗不遗余力抹黑对方来争夺查理的爱情。”
 
+很多人谣传小说不讲语法。最不讲文法的福克纳写了《在我弥留之际》，就连里面Vardaman在河边看着自己亲妈尸体和棺材被冲时发疯，连续几页不加标点的诳语都知道避免使用run-on sentence，从来没有哪本小说会出现一个句子有多个谓语或两个主语。所谓的”小说不讲语法”只是一些小说会把一个短语/状语/形容词等单独成句，句子成分只会少不会多。要看懂这些的前提还是需要对句子结构足够熟悉。
+
 如果想流畅阅读英文，基本的一些语法真的要掌握到像潜意识。比如一看到员工回忆起老板"I should have endured in silence the rust and cramp of my best faculties"的虚拟语气就应该立刻把他所有的活动取反义，即他根本没有忍受他的上司。一看到一个非谓语动词就要反应过来它是附着在哪个人物或物品身上。在过于长的句子里始终记得这个分句的主语是谁，一个but后主语是不是从Mrs Ramsay转移到了她想去灯塔的儿子James身上。
 
 
@@ -132,8 +134,7 @@ Tamara Allen的书都挺难的，这本书写得很好，讲镀金年代银行�
 <br>
 
 ### 状语/插入语/修饰成分……：
-这个分类很随便，泛指一个句子里除了主谓宾以外的其他东西，国内教学其实有教这些，但一般句子都很短，不足以造成干扰。英文小说里这些可以层层叠加弄得很长，一般都有用逗号隔开，刚开始读会很不适应，但读多了还好。阅读这类长句最好不要按照一些应试方法直接跳过插入语，小说里很多重要细节都藏在插入语里。比如一本现代背景改编的傲慢与偏见的开篇，宾格利的出场介绍出现了大量插入语和修饰成分，这个句子只保留主谓宾就是“宾格利出现在相亲真人秀上”，但实际上却是”两年前作为达特茅斯本科和哈佛医学院毕业生和在二十世纪通过修理管道发家致富生活在宾夕法尼亚的宾格利家族后裔的查理表面上不情愿却出现在了名叫《理想配偶》的大型相亲真人电视秀上。在接下来2011年秋天的八个星期里二十八个单身女子同住在加州RC市的一栋别墅里通过在约会时陪他去拉斯维加斯玩二十一点纸牌游戏去纳帕谷葡萄园品尝红酒并无论奇普在不在场都明争暗斗抹黑对方来争夺奇普的爱情。”：
-
+这个分类很随便，泛指一个句子里除了主谓宾以外的其他东西，国内教学其实有教这些，但一般句子都很短，不足以造成干扰。英文小说里这些可以层层叠加弄得很长，一般都有用逗号隔开，刚开始读会很不适应，但读多了还好。阅读这类长句最好不要按照一些应试方法直接跳过插入语，小说里很多重要细节都藏在插入语里。比如一本现代背景改编的傲慢与偏见的开篇，宾格利的出场介绍出现了大量插入语和修饰成分，这个句子只保留主谓宾就是“宾格利出现在相亲真人秀上”，但实际上却是：
 
 #### “WELL BEFORE HIS arrival in Cincinnati, everyone knew that Chip Bingley was looking for a wife. Two years earlier, Chip—graduate of Dartmouth College and Harvard Medical School, scion of the Pennsylvania Bingleys, who in the twentieth century had made their fortune in plumbing fixtures—had, ostensibly with some reluctance, appeared on the juggernaut reality-television show Eligible. Over the course of eight weeks in the fall of 2011, twenty-five single women had lived together in a mansion in Rancho Cucamonga, California, and vied for Chip’s heart: accompanying him on dates to play blackjack in Las Vegas and taste wine at vineyards in Napa Valley, fighting with and besmirching one another in and out of his presence.”
 
@@ -148,18 +149,6 @@ Tamara Allen的书都挺难的，这本书写得很好，讲镀金年代银行�
 
 <br>
 <br>
-
-
-一些小说确实不遵循语法，但即便是这些小说也遵守了一定的规则。从来没有哪本小说会出现一个句子有多个谓语或两个主语。所谓的”小说不讲语法”只是一些小说会把一个短语/状语/形容词等单独成句，句子成分只会少不会多，即便是福克纳《在我弥留之际》Vardaman在河边看着亲妈棺材被冲直接发疯连续几页不加标点的诳语都是讲语法的。要看懂这些的前提还是需要对句子结构足够熟悉。比如Less开篇描写主角的鼻子就是在一个短语后面加了句号。
-
-####  “So has Arthur Less, once pink and gold with youth, faded like the sofa he sits on, tapping one finger on his knee and staring at the grandfather clock. The long     patrician nose perennially burned by the sun (even in cloudy New York October).”
-
-#### 亚瑟·雷斯也老去了，他曾在年轻时充满朝气，现在他就像他坐着的褪色沙发一样，他一根手指轻敲膝盖，望着落地摆钟。即便在纽约的十月，他长而高贵的鼻子也常被太阳晒伤。
-
-
-<br>
-<br>
-
 
 
 ## 4. 单词
