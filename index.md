@@ -23,13 +23,16 @@
 <br>
 
 ## 初阶
+沿海高中或四级水平就能读
+
 ### Just A Bit系列 by Alesandra Hazard
 经典入门系列，无需介绍
+
 ### Haven City by Zoe Perdita
-10本shifter系列，用词简单
-### Haven City by Zoe Perdita
+shifter系列十本，用词简单
+
 ### Famous Series by Eden Finley
-人物关系简单，没什么描写性语言，专有名词不多，沿海高中或四级水平就能读
+人物关系简单
 
 <br>
 <br>
